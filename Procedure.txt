@@ -1,0 +1,18 @@
+Black 1 Procedure
+
+Write Trainer into overworld, link to appropriate script.  (The numbers are off by 1) a/1/2/5
+Write Trainer Data. a/0/9/2 a/0/9/3
+Pack overworld and trainer data into narc files.
+Pack narc files into .nds file
+Write trainer name into .nds file  a/0/0/2
+Write text and scripts into .nds file. a/0/0/3 a/0/5/7
+
+Black 2 Procedure
+
+
+Write Trainer into overworld, link to appropriate script.  (The numbers are off by 1) a/1/2/6
+Write Trainer Data. a/0/9/1 a/0/9/2
+Pack overworld and trainer data into narc files.
+Pack narc files into .nds file
+Write trainer name into .nds file  a/0/0/2
+Write text and scripts into .nds file. a/0/0/3 a/0/5/6
